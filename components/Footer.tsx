@@ -1,6 +1,6 @@
 "use client";
 
-import { GitHubLogoIcon } from "@radix-ui/react-icons";
+import { Discord } from 'react-icons/io5';
 import { motion } from "framer-motion";
 import Link from "next/link";
 import IconTwitter from "./icons/IconTwitter";
@@ -24,16 +24,16 @@ const Footer = () => {
               <p className="text-sm text-neutral-0">
                 This Ordinals Explorer is powered by {" "}
                 <a className="underline" href="https://luvnft.com">
-                  LUV NFT
+                  LUV NFT.
                 </a>{" "}
-                shill your Ordinals on{" "}
+                Shill your Ordinals on{" "}
                 <a
                   className="underline"
                   href="https://btcsats.luvnft"
                 >
-                LUV NFT BTCSATS
-                </a>
-                web5 social media platform.
+                LUV NFT BTCSATS{" "}
+                </a>{" "}
+                Web5 social media platform.
               </p>
             </div>
             {/* Newsletter form */}
@@ -45,17 +45,17 @@ const Footer = () => {
           <div className="mt-10 flex flex-col justify-between space-y-4 text-center text-xs text-neutral-300 md:flex-row md:space-y-0">
             <div>
               {/* todo: links */}
-              <a href="https://www.hiro.so/patent-pledge">Patent Pledge</a>{" "}
+              <a href="https://tiktok.com/@luvnft">TikTok</a>{" "}
               &mdash;{" "}
-              <a href="https://www.hiro.so/terms-privacy">Terms & Privacy</a>
+              <a href="https://instagram.com/luvnft">Instagram</a>
             </div>
             <div className="flex justify-center space-x-3">
               <Link href="https://twitter.com/luvnft" target="_blank">
                 {/* todo: find filled twitter icon */}
                 <IconTwitter className="inline-block h-3.5 text-neutral-0" />
               </Link>
-              <Link href="https://github.com/hirosystems" target="_blank">
-                <GitHubLogoIcon className="inline-block h-[18px] w-[18px] text-neutral-0" />
+              <Link href="https://discord.gg/RqKUB7Rxz5" target="_blank">
+              <Discord className="inline-block h-[18px] w-[18px] text-neutral-0" />
               </Link>
               <Link
                 href="https://luvnft.com"
