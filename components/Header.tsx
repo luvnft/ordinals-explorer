@@ -12,7 +12,7 @@ const Header = ({ children }: { children?: React.ReactNode }) => {
   return (
     <header className="relative mx-auto flex w-full max-w-[88rem] items-center justify-between px-6 py-4 md:px-10">
       <Link href="/" className="cursor-pointer">
-        <img src="/logo.svg" alt="Hiro Ordinals Beta" />
+        <img src="/logo.svg" alt="LUV NFT Ordinals Beta" />
       </Link>
       <AnimatePresence>
         {pathname !== "/" ? (
