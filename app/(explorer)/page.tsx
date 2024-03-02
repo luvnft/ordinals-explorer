@@ -73,16 +73,16 @@ export default function Home() {
           <div className="pointer-events-none flex h-16 w-16 items-center justify-center rounded bg-neutral-0">
             <img src="/b-illustration.svg" alt="Bitcoin Icon" />
           </div>
-          <h4 className="mt-7 text-2xl">What are Ordinals?</h4>
+          <h4 className="mt-7 text-2xl">BTCSATS Web5 social media platform</h4>
           <p className="mt-4">
-            Ordinal Inscriptions, similar to NFTs, are digital assets inscribed
-            on a satoshi, the lowest denomination of a Bitcoin (BTC).{" "}
+            LUV NFT BTCSATS is a twitter-like platform where everyone in the world 
+            unites to talk about Bitcoin, Sats and Ordinal Inscriptions digital assets.{" "}
             <a
-              href="https://www.hiro.so/blog/what-are-bitcoin-ordinals "
+              href="https://btcsats.luvnft.com"
               target="_blank"
               className="text-neutral-300"
             >
-              Learn more.
+            Join us.
             </a>
           </p>
         </div>
