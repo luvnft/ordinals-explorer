@@ -81,10 +81,10 @@ const Header = ({ children }: { children?: React.ReactNode }) => {
         </HoverCard> */}
         <Link
           target="_blank"
-          href="https://hiro.so"
+          href="https://btcsats.luvnft.com"
           className="rounded-md px-3.5 py-2.5 text-neutral-300 hover:text-neutral-500"
         >
-          hiro.so
+          btcsats.luvnft.com
           <ArrowUpRight className="inline" size={16} />
         </Link>
       </div>

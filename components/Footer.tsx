@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="flex flex-col p-4 pb-8 sm:p-6 md:p-8 lg:p-12">
           <div className="flex flex-col justify-between gap-6 md:flex-row">
             <div className="flex gap-4 md:flex-col">
-              <a href="https://hiro.so" aria-label="Hiro Systems">
+              <a href="https://luvnft.com" aria-label="Hiro Systems">
                 <div className="hiro h-[54px] w-[54px]" />
               </a>
               {/* todo: link chainhooks */}
