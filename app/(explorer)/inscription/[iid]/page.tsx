@@ -8,7 +8,7 @@ export async function generateMetadata({
   params: { iid: string };
 }) {
   const inscription = await getInscription(params.iid);
-  const titleAbsolute = `Inscription #${inscription.number} | Hiro Ordinals Explorer`;
+  const titleAbsolute = `Inscription #${inscription.number} | LUV NFT Ordinals Explorer`;
 
   return {
     title: { absolute: titleAbsolute },

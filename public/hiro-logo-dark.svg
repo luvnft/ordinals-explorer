@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" fill="none"><rect width="52" height="52" x="1.568" y="1.7" fill="#141312" stroke="#383432" stroke-width="2" rx="5"/><path fill="#F2F0ED" d="m30.97 36.676 6.012-17.8h2.29l-6.012 17.8h-2.29ZM16.033 36.676l6.011-17.8h2.288l-6.01 17.8h-2.289ZM31.05 26.826h-6.154l-.641 1.898h6.154l.64-1.898Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <path d="M53.568,6.7C53.568,3.94 51.328,1.7 48.568,1.7L6.568,1.7C3.808,1.7 1.568,3.94 1.568,6.7L1.568,48.7C1.568,51.46 3.808,53.7 6.568,53.7L48.568,53.7C51.328,53.7 53.568,51.46 53.568,48.7L53.568,6.7Z" style="fill:rgb(20,19,18);stroke:rgb(56,52,50);stroke-width:2px;"/>
+    <g transform="matrix(1,0,0,1,-12.7498,19.3099)">
+        <text x="18.906px" y="25.081px" style="font-family:'ArchivoBlack-Regular', 'Archivo Black', sans-serif;font-size:64px;fill:white;">o</text>
+    </g>
+</svg>
