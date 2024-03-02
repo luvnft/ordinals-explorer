@@ -51,21 +51,21 @@ export default function Home() {
           </div>
           <h4 className="mt-7 text-2xl">Looking to make an inscription?</h4>
           <p className="mt-4">
-            Download{" "}
+            Visit {" "}
             <a
-              href="https://leather.io/install-extension"
+              href="https://sator.luvnft.com/"
               target="_blank"
               className="text-neutral-300"
             >
-              Leather
+              LUV NFT Sator
             </a>{" "}
-            and try{" "}
+            and {" "}
             <a
-              href="https://gamma.io/"
+              href="https://bitcoin.luvnft.com"
               target="_blank"
               className="text-neutral-300"
             >
-              Gamma.io
+              LUV NFT Bitcoin marketplace
             </a>
           </p>
         </div>

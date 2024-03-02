@@ -22,18 +22,18 @@ const Footer = () => {
               </a>
               {/* todo: link chainhooks */}
               <p className="text-sm text-neutral-0">
-                This Ordinals Explorer is using the{" "}
-                <a className="underline" href="https://docs.hiro.so/ordinals">
-                  Hiro Ordinals API
+                This Ordinals Explorer is powered by {" "}
+                <a className="underline" href="https://luvnft.com">
+                  LUV NFT
                 </a>{" "}
-                powered by{" "}
+                shill your Ordinals on{" "}
                 <a
                   className="underline"
-                  href="https://github.com/hirosystems/ordhook"
+                  href="https://btcsats.luvnft"
                 >
-                  Ordhook
+                LUV NFT BTCSATS
                 </a>
-                .
+                web5 social media platform.
               </p>
             </div>
             {/* Newsletter form */}
@@ -50,7 +50,7 @@ const Footer = () => {
               <a href="https://www.hiro.so/terms-privacy">Terms & Privacy</a>
             </div>
             <div className="flex justify-center space-x-3">
-              <Link href="https://twitter.com/hirosystems" target="_blank">
+              <Link href="https://twitter.com/luvnft" target="_blank">
                 {/* todo: find filled twitter icon */}
                 <IconTwitter className="inline-block h-3.5 text-neutral-0" />
               </Link>
@@ -58,11 +58,11 @@ const Footer = () => {
                 <GitHubLogoIcon className="inline-block h-[18px] w-[18px] text-neutral-0" />
               </Link>
               <Link
-                href="https://hiro.so"
+                href="https://luvnft.com"
                 className="inline-block"
                 target="_blank"
               >
-                &copy; {new Date().getFullYear()} Hiro Systems PBC
+                &copy; {new Date().getFullYear()} LUV NFT
               </Link>
             </div>
           </div>

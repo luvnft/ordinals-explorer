@@ -64,7 +64,7 @@ const OgImagePage = ({ params }: { params: { iid: string } }) => {
       </div>
       <div className="flex justify-between">
         <p className="self-end font-['Aeonik_Fono'] text-3xl text-neutral-300">
-          ordinals.hiro.so
+          ordinals.luvnft.com
         </p>
         <img src="/hiro-dark.svg" className="w-[62px]" />
       </div>

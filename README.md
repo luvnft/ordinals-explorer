@@ -1,6 +1,6 @@
 # Hiro Ordinals Explorer
 
-➡️ https://ordinals.hiro.so 🌐
+➡️ https://ordinals.luvnft.com 🌐
 
 ![Ordinals Explorer](public/og-image.png)
 

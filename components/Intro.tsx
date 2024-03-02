@@ -23,7 +23,7 @@ const Intro = () => {
         )}
       </div>
       <div className="text-xl md:text-3xl">
-        Explore <span className="text-neutral-300">Ordinals</span> inscriptions.
+        Explore BTC <span className="text-neutral-300">Ordinals</span> inscriptions.
         Search, filter, and sort by address, inscription ID, sat number, or
         block.
       </div>
